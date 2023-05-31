@@ -1,0 +1,68 @@
+.food-distribute {
+    height: 100% !important;
+    background-color: #61b2bbc2 !important;
+}
+
+.register-ngo {
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 25px;
+}
+
+.register-ngo:hover {
+    background-color: #e3f2fd;
+    color: #000;
+}
+
+.register-user {
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.register-user:hover {
+    background-color: #a6f8b0;
+    color: #000;
+}
+
+/* Event  */
+.btn-event {
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    color: #000;
+}
+
+.btn-event:hover {
+    background-color: aqua;
+    color: #000;
+}
+
+.event-list , .show-event{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.event-list ul li, .show-event ul li{
+    display: inline-block;
+    width:100px;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.event-list ul, .show-event ul{
+    margin: 0%;
+}
